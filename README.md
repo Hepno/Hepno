@@ -16,6 +16,7 @@
 
 ------------------------ 
 <h2 align="center">Linux setup</h2>
+<div align="center">I run ArchLinux with the awesomeWM window manager</div>
 
 ------------------------ 
 <h2 align="center">About me</h2>
