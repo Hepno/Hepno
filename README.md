@@ -2,7 +2,7 @@
 <div align="center">Welcome to my profile. My name is Hepno, I am a developer from Sweden.</div>
 <div align="center">I currently know Java, C#, HTML, CSS, Godot, and am learning JavaScript & Bash.     </div>    
 <div align="center">I use arch (btw)</div>
-https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw
+<a href="https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw" align="center">Link</div>
 
 ------------------------ 
 <h2 align="center">Projects</h2>
