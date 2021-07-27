@@ -3,4 +3,4 @@
 <div align="center">I currently know Java, C#, HTML, CSS, Godot, and am learning JavaScript & Bash.     </div>    
 
 ------------------------ 
-<h1 align="center">Test</h1>
+<h2 align="center">Projects</h2>
