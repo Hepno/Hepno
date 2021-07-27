@@ -13,3 +13,8 @@
 
 <h4 align="center">Comming soon</h4>
 <div align="center">Not ready to announce this yet, but keep an eye out for updates.</div>
+------------------------ 
+<h2 align="center">About me</h2>
+
+<div align="center">My favorite cheese is cheddar and halloumi.</div>
+<div align="center">I don't like eggs, they are disgusting.</div>
