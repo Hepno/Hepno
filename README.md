@@ -15,6 +15,9 @@
 <div align="center">Not ready to announce this yet, but keep an eye out for updates.</div>
 
 ------------------------ 
+<h2 align="center">Linux setup</h2>
+
+------------------------ 
 <h2 align="center">About me</h2>
 
 <div align="center">My favorite cheese is cheddar and halloumi.</div>
