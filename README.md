@@ -9,7 +9,7 @@
 <h4 align="center">Youtube channel</h4>
 <div align="center">My youtube channel is focused on teaching people how to code.</div>
 <div align="center">I currently have a Java course & Linux guide up there, and am working on more courses.</div>
-<a href align="center" ="https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw">Link</a>
+<center><a href="" class="https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw">Link</a></center>
 
 <h4 align="center">Comming soon</h4>
 <div align="center">Not ready to announce this yet, but keep an eye out for updates.</div>
