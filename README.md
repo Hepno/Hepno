@@ -22,7 +22,8 @@
 
 ------------------------ 
 <h2 align="center">Linux setup</h2>
-<div align="center">I run ArchLinux with the awesomeWM window manager</div>
+<div align="center">I run ArchLinux with the awesome window manager. My GTK theme is Dracula</div>
+<div align="center">I use the Papyrus icon theme. I also use the Alacritty terminal.</div>
 
 ------------------------ 
 <h2 align="center">About me</h2>
