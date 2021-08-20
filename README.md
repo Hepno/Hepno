@@ -11,6 +11,12 @@
 <div align="center">I currently have a Java course & Linux guide up there, and am working on more courses.</div>
 <div align="center">https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw</div>
 
+<h4 align="center">HepOS</h4>
+<div align="center">HepOS is an Arch based Linux distrobution for gamers.</div>
+<div align="center">Its preinstalled with wine, proton, steam, discord, browsers, and other useful tools</div>
+<div align="center">Its made in collaboration with @Henryws</div>
+<div align="center">https://github.com/Hep-OS</div>
+
 <h4 align="center">Comming soon</h4>
 <div align="center">Not ready to announce this yet, but keep an eye out for updates.</div>
 
