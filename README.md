@@ -17,6 +17,9 @@
 <div align="center">Its made in collaboration with @Henryws</div>
 <div align="center">https://github.com/Hep-OS</div>
 
+<h4 align="center">Starships</h4>
+<div align="center">Starships is a game made in the Godot game engine, it is planned to be released on October 1st 2021.</div>
+
 <h4 align="center">Comming soon</h4>
 <div align="center">Not ready to announce this yet, but keep an eye out for updates.</div>
 
