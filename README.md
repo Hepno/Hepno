@@ -1,40 +1,19 @@
-<h1 align="center">Hey there 👋</h1>
-<div align="center">Welcome to my profile. My name is Hepno, I am a developer from Sweden.</div>
-<div align="center">I currently know Java, C#, HTML, CSS, Godot, and am learning JavaScript & Bash.     </div>    
-<div align="center">I use arch (btw)</div>
+<h1 align="center">Hi 👋, I'm Hepno</h1>
+<h3 align="center">I'm a developer from Sweden</h3>
 
------------------------- 
-<h2 align="center">Projects</h2>
+- 🔭 I’m currently working on **Starships**
 
-<h4 align="center">Youtube channel</h4>
-<div align="center">My youtube channel is focused on teaching people how to code.</div>
-<div align="center">I currently have a Java course & Linux guide up there, and am working on more courses.</div>
-<div align="center">https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw</div>
+- 🔭 I’m currently working on **[HepOS](https://github.com/Hep-OS)**
 
-<h4 align="center">HepOS</h4>
-<div align="center">HepOS is an Arch based Linux distrobution for gamers.</div>
-<div align="center">Its preinstalled with wine, proton, steam, discord, browsers, and other useful tools</div>
-<div align="center">Its made in collaboration with @Henryws</div>
-<div align="center">https://github.com/Hep-OS</div>
+- 🔨 Some tools I use are **Arch Linux, Dracula, Papirus icon set, and Alacritty**
 
-<h4 align="center">Starships</h4>
-<div align="center">Starships is a game made in the Godot game engine, it is planned to be released on October 1st 2021.</div>
+- ⚡ Fun fact: **My favorite cheese is cheddar and halloumi. I don't like eggs, they are disgusting.**
 
-<h4 align="center">Comming soon</h4>
-<div align="center">Not ready to announce this yet, but keep an eye out for updates.</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCewbQpMwEF9E3W8yFZquSzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucewbqpmwef9e3w8yfzquszw" height="30" width="40" /></a>
+</p>
 
------------------------- 
-<h2 align="center">Linux setup</h2>
-<div align="center">I run ArchLinux with the awesome window manager. My GTK theme is Dracula</div>
-<div align="center">I use the Papyrus icon theme. I also use the Alacritty terminal.</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
------------------------- 
-<h2 align="center">About me</h2>
-
-<div align="center">My favorite cheese is cheddar and halloumi.</div>
-<div align="center">I don't like eggs, they are disgusting.</div>
-<div align="center">I use Linux, its much better than windows</div>
-<div align="center">Baked potatoes taste pretty good</div>
-
-
-<div align="center">@Henryws will probably treat me as a god after reading the line above</div>
