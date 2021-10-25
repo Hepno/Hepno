@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[HepOS](https://github.com/Hep-OS)**
 
-- 🔨 Some tools I use are **Arch Linux, Dracula, Papirus icon set, and Alacritty**
+- 🔨 Some tools I use are **Debian Linux, Dracula, Papirus icon set, and Alacritty**
 
 - ⚡ Fun fact: **My favorite cheese is cheddar and halloumi. I don't like eggs, they are disgusting.**
 
