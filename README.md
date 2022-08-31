@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hepno</h1>
 <h3 align="center">I'm a developer from Sweden</h3>
 
-- 🔭 I’m currently working on **Farming game**
+- 🔭 I’m currently learning **Spigot Plugin Develpment**
 
-- 🔭 I’m currently working on **[HepOS](https://github.com/Hep-OS)**
+- 🔭 I’m currently working on **A full RPG inside of Minecraft**
 
-- 🔭 I’m currently working on **[HeavenNodes](https://heavennodes.com)**
-
-- 🔨 Some tools I use are **Arch Linux, Dracula, Papirus icon set, and Alacritty**
+- 🚀 Freelancer @ **Orbital Studios**
 
 - ⚡ Fun fact: **My favorite cheese is cheddar and halloumi. I don't like eggs, they are disgusting.**
 
