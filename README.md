@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **A full RPG inside of Minecraft**
 
+- 🔭 I’m currently working on **[https://github.com/Hepno/HepnosEssentials]HepnosEssentials**
+
 - 🚀 Freelancer @ **Orbital Studios**
 
 - ⚡ Fun fact: **My favorite cheese is cheddar and halloumi. I don't like eggs, they are disgusting.**
