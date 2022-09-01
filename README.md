@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A full RPG inside of Minecraft**
 
-- 🔭 I’m currently working on **[https://github.com/Hepno/HepnosEssentials]HepnosEssentials**
+- 🔭 I’m currently working on **[HepnosEssentials](https://github.com/Hepno/HepnosEssentials)**
 
 - 🚀 Freelancer @ **Orbital Studios**
 
