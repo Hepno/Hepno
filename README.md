@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 - Hepno#8267
+
 - me@hepno.dev
+
 - hepno@protagnst.ca
 
 <h3 align="left">Languages and Tools:</h3>
