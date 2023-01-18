@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hepno</h1>
 <h3 align="center">I'm a developer from Sweden</h3>
 
-- 🔭 I’m currently learning **Spigot Plugin Develpment**
+- 🔭 I’m currently working on **Project Myr**
 
-- 🔭 I’m currently working on **A full RPG inside of Minecraft**
+- 🔭 I’m currently studying **CS50AI - A machine learning course by Harvard University**
 
 - 🔭 I’m currently working on **[HepnosEssentials](https://github.com/Hepno/HepnosEssentials)**
-
-- 🚀 Freelancer @ **Orbital Studios**
-
-- ⚡ Fun fact: **My favorite cheese is cheddar and halloumi. I don't like eggs, they are disgusting.**
 
 <h3 align="left">Connect with me:</h3>
 
