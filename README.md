@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **me@hepno.dev**
 
-- 🌱 [Check out my Github Gists] (https://gist.github.com/Hepno)
+- 🌱 [Check out my Github Gists](https://gist.github.com/Hepno)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
