@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **me@hepno.dev**
 
+- 🌱 [Check out my Github Gists] (https://gist.github.com/Hepno)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hepnowastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hepnowastaken" height="30" width="40" /></a>
