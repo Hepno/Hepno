@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lily</h1>
+<h1 align="center">Hi 👋, I'm Hepno!</h1>
 <h3 align="center">I'm a Swedish Programmer who's been coding for the past eight years!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hepno&label=Profile%20views&color=0e75b6&style=flat" alt="hepno" /> </p>
