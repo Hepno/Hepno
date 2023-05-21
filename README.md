@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hepno!</h1>
 <h3 align="center">I'm a Swedish Programmer who's been coding for the past eight years!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hepno&label=Profile%20views&color=0e75b6&style=flat" alt="hepno" /> </p>
+[![wakatime](https://wakatime.com/badge/user/07b34f29-dec6-4b9c-8b1c-76e79e9eae9d.svg)](https://wakatime.com/@07b34f29-dec6-4b9c-8b1c-76e79e9eae9d) <p align="left"> <img src="https://komarev.com/ghpvc/?username=hepno&label=Profile%20views&color=0e75b6&style=flat" alt="hepno" /> </p>
 
 - 🔭 I’m currently working on [My Spigot Plugins](https://docs.hepno.dev/)
 
